@@ -233,7 +233,7 @@ def try_methods_and_functions():
     turt.backward(200)
     turt.draw_circle(30)
     turt.draw_square(50)
- 
+
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
